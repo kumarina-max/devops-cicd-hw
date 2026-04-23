@@ -4,3 +4,5 @@
 https://github.com/kumarina-max/devops-cicd-hw 
 Задание 2 
 https://github.com/kumarina-max/devops-cicd-hw/tree/main/screenshots
+Задание 3
+https://github.com/kumarina-max/devops-cicd-hw/tree/main/screenshots/task3
